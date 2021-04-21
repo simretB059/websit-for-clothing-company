@@ -1,0 +1,10 @@
+body {
+  max-width: 1440px;
+  background-image: url(file:///C:/Users/simre/AppData/Local/Temp/Temp1_base-apparel-coming-soon-master.zip/base-apparel-coming-soon-master/images/bg-pattern-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
